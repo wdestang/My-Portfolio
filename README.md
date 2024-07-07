@@ -1,2 +1,3 @@
-# analyzing-data-python
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
+# Data Analysis with Excel, Python and SQL
+
+These are a series of labs and projects completed showcasing knowledge with Microsoft Excel, Python, SQL and ability to create meaningful dashboards.
