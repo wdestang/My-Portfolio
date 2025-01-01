@@ -1,3 +1,3 @@
-# Data Analysis with Excel, Python and SQL
+# My Portfolio
 
-These are a series of labs and projects completed showcasing knowledge with Microsoft Excel, Python, SQL and ability to create meaningful dashboards.
+These are a series of labs and projects showcasing my knowledge in data analytics, java and html.
