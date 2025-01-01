@@ -43,13 +43,13 @@ WHERE CC.LOCATION_DESCRIPTION LIKE '%SCHOOL%';
 +-------------------------------------------+---------------------+
 | Column name in CHICAGO_PUBLIC_SCHOOLS     | Column name in view |
 +-------------------------------------------+---------------------+
-|  NAME_OF_SCHOOL	                          | School_Name         |
+|  NAME_OF_SCHOOL	                    | School_Name         |
 |  Safety_Icon	                            | Safety_Rating       |
 |  Family_Involvement_Icon                  | Family_Rating       |
-|  Environment_Icon	                        | Environment_Rating  |
-|  Instruction_Icon	                        | Instruction_Rating  |
+|  Environment_Icon	                    | Environment_Rating  |
+|  Instruction_Icon	                    | Instruction_Rating  |
 |  Leaders_Icon	                            | Leaders_Rating      |
-|  Teachers_Icon	                          | Teachers_Rating     |
+|  Teachers_Icon	                    | Teachers_Rating     |
 +-------------------------------------------+---------------------+
 
 CREATE VIEW CPS_VIEW (School_Name, Safety_Rating, Family_Rating, Environment_Rating, 
